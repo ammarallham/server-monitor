@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+ 
+# Virtual environment
+venv/
+.venv/
+env/
+ 
+# OS files
+.DS_Store
+ 
+# Editor / IDE
+.vscode/
+.idea/
+ 
+# Generated reports (optional: uncomment if you don't want to commit reports)
+# reports/*.txt
+ 
